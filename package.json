@@ -1,0 +1,18 @@
+{
+  "name": "show.test.4resb",
+  "version": "1.0.0",
+  "description": "Test task for Junior Frontend Developer",
+  "main": "index.html",
+  "scripts": {
+    "dev": "parcel index.html --open",
+    "build": "parcel build index.html --out-dir page"
+  },
+  "dependencies": {
+    "mocha": "^6.2.3"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
